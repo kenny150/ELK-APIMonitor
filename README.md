@@ -44,6 +44,8 @@ http://localhost:9200
 http://localhost:5601
 http://localhost:8081
 
+CONFIGURAÇÃO DO CRON
 
+*/1 * * * * /bin/bash /LOCAL/DO/SCRIPT/get-api.sh
 
 
